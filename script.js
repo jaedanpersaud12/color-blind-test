@@ -33,7 +33,6 @@ container.addEventListener('click', e => {
     } else {
         headerDisplay.textContent = "TRY AGAIN"
         headerDisplay.classList.remove("text-success")
-
         headerDisplay.classList.add("text-danger")
         wrongCount++
         wrongDisplay.textContent = wrongCount
