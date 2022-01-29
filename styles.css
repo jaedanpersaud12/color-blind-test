@@ -1,0 +1,76 @@
+div #red {
+    background-color: red;
+    height: 300px;
+    transition: 100ms ease-in-out;
+}
+
+#red:hover {
+    background-color: rgb(206, 0, 0);
+    cursor: pointer;
+}
+
+div #orange {
+    background-color: orange;
+    height: 300px;
+    transition: 100ms ease-in-out;
+}
+
+#orange:hover {
+    background-color: rgb(197, 128, 0);
+    cursor: pointer;
+}
+
+div #yellow {
+    background-color: yellow;
+    height: 300px;
+    transition: 100ms ease-in-out;
+}
+
+#yellow:hover {
+    background-color: rgb(211, 211, 0);
+    cursor: pointer;
+}
+
+div #green {
+    background-color: green;
+    height: 300px;
+    transition: 100ms ease-in-out;
+}
+
+#green:hover {
+    background-color: rgb(0, 99, 0);
+    cursor: pointer;
+}
+
+div #blue {
+    background-color: blue;
+    height: 300px;
+    transition: 100ms ease-in-out;
+}
+
+#blue:hover {
+    background-color: rgb(0, 0, 216);
+    cursor: pointer;
+}
+
+div #indigo {
+    background-color: indigo;
+    height: 300px;
+    transition: 100ms ease-in-out;
+}
+
+#indigo:hover {
+    background-color: rgb(61, 0, 104);
+    cursor: pointer;
+}
+
+div #violet {
+    background-color: violet;
+    height: 300px;
+    transition: 100ms ease-in-out;
+}
+
+#violet:hover {
+    background-color: rgb(187, 105, 187);
+    cursor: pointer;
+}
