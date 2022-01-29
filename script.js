@@ -53,3 +53,12 @@ function reset() {
     currentColor = getRandomColor()
     colorToGuess.textContent = currentColor
 }
+
+/* 
+did a couple things like: 
+add event delegation
+add reset button
+change the header text and color based on the users choice
+added a count for correct and wrong answers
+prompts the user to guess a random color(bonus)
+*/
